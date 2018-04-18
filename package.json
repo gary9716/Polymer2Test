@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "prpl-server": "^1.0.0"
   },
